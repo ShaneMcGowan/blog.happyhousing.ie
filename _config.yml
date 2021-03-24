@@ -24,10 +24,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: Happy Housing Blog
 email: your-email@domain.com
-author: GitHub User
-copyright: Copyright © 1970-2010
+author: Happy Housing Limtited
+copyright: Copyright © 2021
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -121,12 +121,11 @@ yat:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-# header_pages:
-#   - index.html
-#   - archives.html
-#   - categories.html
-#   - tags.html
-#   - about.md
+header_pages:
+  - index.html
+  # - archives.html
+  - categories.html
+  - tags.html
 
 # Page default value
 # defaults:
@@ -165,3 +164,5 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-spaceship
+
+permalink: /post/:title
