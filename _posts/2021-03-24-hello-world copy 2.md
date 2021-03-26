@@ -1,23 +1,25 @@
 ---
 layout: post
-title: Hello World!
-subheading: How ya doing?
+title: Top blog post you have ever see!
+subheading: Tasty?
 author: Shane
-categories: ["News", "Test Category 1", "Test Category 2"]
+categories: ["Tech", "News", "Test Category 2"]
 banner: "/assets/images/banners/2021-03-24-hello-world.jpg"
 tags: Happy Housing Tech
 sidebar: []
 ---
 
 
-## Section 1
-Here is a lovely code snippet:
+## My Heading
+
+All of the other posts are inferior... muhahahaw
+<!--Here is a lovely code snippet:
 
 {% highlight typescript %}
 function tester():void{
 
 }
-{% endhighlight %}
+{% endhighlight %}-->
 
-## section 2
+## My Better Heading
 
