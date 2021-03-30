@@ -4,7 +4,7 @@ title: Introducing Happy Housing
 subheading: The future of renting is coming...
 author: Joanne
 categories: ["Tech", "News", "Announcements"]
-banner: "/assets/images\posts\2021-03-27-introducing-happy-housing\pexels-fauxels-3182784.jpg"
+banner: "/assets/images/posts/2021-03-27-introducing-happy-housing/pexels-fauxels-3182784.jpg"
 tags: Happy Housing Tech
 sidebar: []
 ---
@@ -17,7 +17,7 @@ We want to make renting a house as straight forward as booking a hotel or orderi
 
 ## Applicants
 
-We understand there is no one-fits-all filter we all use when scrolling through listings, so we offer a more advanced search experience for applicants. You will have the option to filter your searches to meet your specific needs. For example, you may search for an apartment that allows smokers, allows pets and has on-street parking.
+We understand there is no one-size-fits-all filter we all use when scrolling through listings, so we offer a more advanced search experience for applicants. You will have the option to filter your searches to meet your specific needs. For example, you may search for an apartment that allows smokers, allows pets and has on-street parking.
 
 Our goal is to provide you with a start-to-finish application journey. Not only will Happy Housing serve as tool for searching for properties, but you will also have the ability to save customised searches, and receive notifications once properties matching your search become available. Additionally, if the property owner has enabled it, you will have the option to submit an application via Happy Housing where you can collate all your information in one place and submit it once your initial application has been accepted. And finally (we left the best part for last), you will hear back. Yes - whether you have been rejected or accepted, you will receive a response. 
 
