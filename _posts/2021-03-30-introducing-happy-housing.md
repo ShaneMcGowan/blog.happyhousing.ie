@@ -5,7 +5,7 @@ subheading: The future of renting is coming...
 author: Joanne
 categories: ["Tech", "News", "Announcements"]
 banner: "/assets/images/posts/2021-03-27-introducing-happy-housing/pexels-fauxels-3182784.jpg"
-tags: Happy Housing Tech
+tags: business new hello
 sidebar: []
 ---
 
@@ -13,7 +13,7 @@ We have all had terrible experiences renting. We started this journey with one o
 
 Happy Housing is an all-in-one online platform for managing the housing rental process from start to finish. This results in less stress, better organisation and clearer communication during the application process and the tenancy. 
 
-We want to make renting a house as straight forward as booking a hotel or ordering a takeaway. 
+We want to make renting a house as straight-forward as booking a hotel or ordering a takeaway. 
 
 ## Applicants
 
