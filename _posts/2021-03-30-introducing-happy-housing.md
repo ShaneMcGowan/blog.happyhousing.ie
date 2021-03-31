@@ -24,23 +24,23 @@ Our goal is to provide you with a start-to-finish application journey. Not only 
 ## Landlords
 
 Unlike the current rental platforms available in Ireland we, not only provide a solution to advertising your property online but, provide a space where you can receive and view all your applications in one place, interact with your applicants and manage the tenancy once the lease is signed.
-What are the benefits of considering Happy Housing?
-We guarantee to save you time and effort.
-You will be able to view and manage all your applications in one place.
-You will no longer need to include your personal phone number or email address on your ads, if you choose not to.
-You will have a centralised place to organise and manage all your information.
-How do we do all this?
+### What are the benefits of considering Happy Housing?
+- We guarantee to save you time and effort.
+- You will be able to view and manage all your applications in one place.
+- You will no longer need to include your personal phone number or email address on your ads, if you choose not to.
+- You will have a centralised place to organise and manage all your information.
+### How do we do all this?
 When you sign up to Happy Housing you will have a dedicated dashboard that will contain the tenant management tool, applications section, property management page, chat function and your own profile.
 
 ## Tenants 
 
 You become a ‘tenant’ once you have signed the lease. 
 You may have a pre-existing account with Happy Housing from your application stage – or you may have joined the site at your landlord’s request. Whatever the reason, you will have an account on the site where you can organise all of your information in one place. 
-What we can do for you!
-You will have a dedicated space to organise all your documents and files.
-You will have more open communication with your landlord to receive the support you need during your tenancy.
-Once your current tenancy is finished, you will have all your information in one place, ready to start the application process all over again.
-…and much more.
+### What we can do for you!
+- You will have a dedicated space to organise all your documents and files.
+- You will have more open communication with your landlord to receive the support you need during your tenancy.
+- Once your current tenancy is finished, you will have all your information in one place, ready to start the application process all over again.
+- …and much more.
 
 The future of renting is coming…
 
