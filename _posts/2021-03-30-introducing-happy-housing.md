@@ -29,6 +29,7 @@ Unlike the current rental platforms available in Ireland we, not only provide a 
 - You will be able to view and manage all your applications in one place.
 - You will no longer need to include your personal phone number or email address on your ads, if you choose not to.
 - You will have a centralised place to organise and manage all your information.
+
 ### How do we do all this?
 When you sign up to Happy Housing you will have a dedicated dashboard that will contain the tenant management tool, applications section, property management page, chat function and your own profile.
 
