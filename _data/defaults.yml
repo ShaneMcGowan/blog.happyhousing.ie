@@ -2,3 +2,8 @@ home:
   heading: "Happy Housing blog"
   subheading: "Find your happy place"
   banner: "Your image url"
+
+study:
+  heading: "The Happy Housing Rental Study 2021"
+  subheading: "Test subheading"
+  banner: "Your image url"
