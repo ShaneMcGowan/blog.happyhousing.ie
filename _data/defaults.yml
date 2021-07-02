@@ -7,3 +7,8 @@ study:
   heading: "Our study"
   subheading: "The Happy Housing Rental Study 2021"
   banner: "Your image url"
+
+subscribe:
+  heading: "Subscribe"
+  subheading: "Be the first to know about our latest blog posts and receive updates on our launch"
+  banner: "Your image url"

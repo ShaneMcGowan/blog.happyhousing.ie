@@ -125,6 +125,7 @@ header_pages:
   - index.html
   - ourstudy.html
   # - archives.html
+  - subscribe.html
   - categories.html
   - tags.html
 
