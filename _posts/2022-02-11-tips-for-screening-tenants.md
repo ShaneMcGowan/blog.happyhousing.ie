@@ -4,7 +4,7 @@ title: Tips for Screening Tenants
 subheading: Helpful tips for screening tenants
 author: Joanne
 categories: ["Tech", "Guide", "Information"]
-banner: "/assets/images/posts/2021-06-21-renting-in-2021/pexels-karolina-grabowska-4498122.jpg"
+banner: "/assets/images/posts/official-banner/blog-banner.jpg"
 tags: screening landlord tenants applications
 sidebar: []
 ---
