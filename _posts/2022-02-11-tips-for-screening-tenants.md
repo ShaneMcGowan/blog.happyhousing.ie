@@ -3,7 +3,7 @@ layout: post
 title: Tips for Screening Tenants
 subheading: Helpful tips for screening tenants
 author: Joanne
-categories: ["Tech", "Guide", "Information"]
+categories: ["Guide", "Information"]
 banner: "/assets/images/posts/official-banner/blog-banner.png"
 tags: screening landlord tenants applications
 sidebar: []
