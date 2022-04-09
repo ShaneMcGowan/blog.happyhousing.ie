@@ -2,7 +2,10 @@
 layout: post
 title: Introducing Happy Housing
 subheading: The future of renting is coming...
-author: Joanne
+author: Joanne Heraghty
+authorImage: "/assets/images/authors/joanne.jpg" 
+authorRole: happy housing co-founder
+authorLinkedIn: https://www.linkedin.com/in/joanne-g-heraghty/
 categories: ["News", "Announcements"]
 banner: "/assets/images/posts/2021-03-27-introducing-happy-housing/pexels-fauxels-3182784.jpg"
 tags: business new hello

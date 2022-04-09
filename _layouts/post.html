@@ -4,10 +4,26 @@ banner:
 banner_html: post-header.html
 hidden: []
 sidebar:
-  - article-menu
+- article-menu
 ---
 
 <div class="post">
+
+  <!-- Author -->
+  <a class="post-author" target="_blank" href="{{ page.authorLinkedIn }}">
+    <div class="post-author-image">
+      <img src="{{ page.authorImage }}" title="{{ page.author }} ({{page.authorRole}})">
+    </div>
+    <div class="post-author-details">
+      <div class="name">
+        {{ page.author }}
+      </div>
+      <div>
+        {{ page.authorRole }}
+      </div>
+    </div>
+  </a>
+
   <section>
 
     {%- assign name = 'banner' -%}
@@ -29,14 +45,14 @@ sidebar:
     {%- if result.size == 0 -%}
     <div class="post-nav">
       {%- if page.previous -%}
-        <a class="previous" href="{{ page.previous.url | relative_url }}" title="{{
+      <a class="previous" href="{{ page.previous.url | relative_url }}" title="{{
           page.previous.title | escape }}">{{ page.previous.title | escape | truncatewords: 6 }}</a>
       {%- else -%}
       <span></span>
       {%- endif -%}
 
       {%- if page.next -%}
-        <a class="next" href="{{ page.next.url | relative_url }}" title="{{ page.next.title | escape }}">{{ page.next.title | escape | truncatewords: 6 }}</a>
+      <a class="next" href="{{ page.next.url | relative_url }}" title="{{ page.next.title | escape }}">{{ page.next.title | escape | truncatewords: 6 }}</a>
       {%- else -%}
       <span></span>
       {%- endif -%}

@@ -1,0 +1,26 @@
+.post-author {
+  display: flex;
+  padding-bottom: 50px;
+  color: black;
+
+  .post-author-image {
+    height: 100px;
+    padding-right: 20px;
+    margin-left: auto;
+    
+    img {
+      border-radius: 50%;
+      height: 100%;
+    }
+  }
+
+  .post-author-details {
+    display: flex;
+    flex-direction: column;
+
+    .name {
+      font-size: 1.25rem;
+    }
+  }
+
+}

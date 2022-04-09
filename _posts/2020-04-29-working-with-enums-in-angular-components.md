@@ -2,7 +2,10 @@
 layout: post
 title: Working with Enums in Angular components
 subheading: How I use Enums in Angular
-author: Shane
+author: Shane McGowan
+authorImage: "/assets/images/authors/shane.jpg" 
+authorRole: happy housing co-founder
+authorLinkedIn: https://www.linkedin.com/in/shane-mc-gowan/
 categories: ["Tech"]
 banner: "/assets/images/posts/2020-04-29-working-with-enums-in-angular-components/header.jpg"
 tags: Angular TypeScript
